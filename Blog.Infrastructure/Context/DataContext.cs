@@ -21,5 +21,10 @@
                 .HasOne(p => p.Author);
                
         }
+
+        public void SaveChanges()
+        {
+            base.SaveChanges();
+        }
     }
 }

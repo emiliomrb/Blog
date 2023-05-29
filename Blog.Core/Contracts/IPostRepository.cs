@@ -10,5 +10,7 @@
     public interface IPostRepository
     {
         IEnumerable<Post> GetAllPendingPosts();
+        Post? GetPostById(int postId);
+        void SaveChanges();
     }
 }

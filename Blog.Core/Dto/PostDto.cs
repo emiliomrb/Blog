@@ -8,5 +8,7 @@
         public string WriterName { get; set; }
         public string WriterSurname { get; set; }
         public DateTime SubmissionDate { get; set; }
+        public string Title { get; set; }
+        public string Corpus { get; set; }
     }
 }

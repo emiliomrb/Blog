@@ -84,3 +84,5 @@ C:\Users\emorbidoni\source\repos\Blog\obj\Debug\net6.0\refint\Blog.dll
 C:\Users\emorbidoni\source\repos\Blog\obj\Debug\net6.0\Blog.pdb
 C:\Users\emorbidoni\source\repos\Blog\obj\Debug\net6.0\Blog.genruntimeconfig.cache
 C:\Users\emorbidoni\source\repos\Blog\obj\Debug\net6.0\ref\Blog.dll
+C:\Users\emorbidoni\source\repos\Blog\bin\Debug\net6.0\Ardalis.GuardClauses.dll
+C:\Users\emorbidoni\source\repos\Blog\bin\Debug\net6.0\JetBrains.Annotations.dll

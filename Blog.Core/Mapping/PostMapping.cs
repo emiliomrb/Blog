@@ -16,7 +16,7 @@
             return posts.Select(p => p.ToModel()).ToList();
         }
 
-        public static PostDto ToModel (this Post post)
+        public static PostDto ToModel(this Post post)
         {
             return new PostDto
             {
@@ -24,6 +24,20 @@
                 WriterName = post.Author.Name,
                 WriterSurname = post.Author.Surname,
                 SubmissionDate = post.SubmitDate
+            };
+        }
+
+        public static PostModel ToPostModel(this Post post)
+        {
+            return new PostModel
+            {
+                Id = post.Id,
+                SubmitDate = post.SubmitDate,
+                AuthorName = post.Author.Name,
+                AuthorSurname = post.Author.Surname,
+                State = post.State,
+                Title = post.Title,
+                Article = post.Article,
             };
         }
     }

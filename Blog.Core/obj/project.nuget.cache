@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Zw1MGvyR11s/3B7+M1KOlIzUTdq1PdG1YfWYuS2DjmGUlt+uMwBte8C/AzaKk5KexEexZbeCNjBw/0Dqv/a1Gg==",
+  "dgSpecHash": "NgtoDbZl9FqVsEisJivPpQu9pP1YYPis6ylbS3JSDugVNj8q6NfzgzHjLNrrXw1eqT1Uv3myrf6ZV13qTrEM7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\emorbidoni\\source\\repos\\Blog.Core\\Blog.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emorbidoni\\.nuget\\packages\\ardalis.guardclauses\\4.0.1\\ardalis.guardclauses.4.0.1.nupkg.sha512",
+    "C:\\Users\\emorbidoni\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512",
     "C:\\Users\\emorbidoni\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\emorbidoni\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\emorbidoni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"

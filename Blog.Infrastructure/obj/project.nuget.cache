@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lnC0QrSwAiliyLHcbjXH/4C/tDPeJ+crt0yUvBbR18mS4P13ofStyziCku/ldLBfcb5cedDWnskUAPObkyFB7Q==",
+  "dgSpecHash": "Dqf3e0QUpzdkf4RGTJpjr95Ro5qx4nVcll0sfskYdQayE7RkS1EC9mBaZHgtrW5Y11jh65SmhNn7vo3+Gttk/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\emorbidoni\\source\\repos\\Blog.Infrastructure\\Blog.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emorbidoni\\.nuget\\packages\\ardalis.guardclauses\\4.0.1\\ardalis.guardclauses.4.0.1.nupkg.sha512",
     "C:\\Users\\emorbidoni\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\emorbidoni\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512",
     "C:\\Users\\emorbidoni\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\emorbidoni\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\emorbidoni\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
