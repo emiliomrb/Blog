@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zw1MGvyR11s/3B7+M1KOlIzUTdq1PdG1YfWYuS2DjmGUlt+uMwBte8C/AzaKk5KexEexZbeCNjBw/0Dqv/a1Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emorbidoni\\source\\repos\\Blog.Core\\Blog.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emorbidoni\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\emorbidoni\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\emorbidoni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

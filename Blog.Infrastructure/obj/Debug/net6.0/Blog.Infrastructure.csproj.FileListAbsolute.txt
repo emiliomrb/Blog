@@ -1,0 +1,17 @@
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\bin\Debug\net6.0\Blog.Infrastructure.deps.json
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\bin\Debug\net6.0\Blog.Infrastructure.runtimeconfig.json
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\bin\Debug\net6.0\Blog.Infrastructure.dll
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\bin\Debug\net6.0\Blog.Infrastructure.pdb
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\Blog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\Blog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\Blog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\Blog.Infrastructure.AssemblyInfo.cs
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\Blog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\Blog.Infrastructure.csproj.CopyComplete
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\Blog.Infrastructure.dll
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\refint\Blog.Infrastructure.dll
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\Blog.Infrastructure.pdb
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\Blog.Infrastructure.genruntimeconfig.cache
+C:\Users\emorbidoni\source\repos\Blog.Infrastructure\obj\Debug\net6.0\ref\Blog.Infrastructure.dll
